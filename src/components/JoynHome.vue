@@ -339,7 +339,7 @@ export default {
     right:20px;
     top:50%;
     transform: translateY(-45px);
-    z-index: 1000;
+    z-index: 900;
     display: block;
 }
 
