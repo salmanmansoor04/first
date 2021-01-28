@@ -1,5 +1,12 @@
 <template>
 
+
+
+
+
+
+
+
 <transition name="fade">
     <div v-if="show">
 
